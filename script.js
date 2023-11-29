@@ -1,6 +1,11 @@
 //your JS code here. If required.
-functionName();
-Acciojob();
+function functionName(){
+	alert("functionName");
+}
 
-alert("functionName");
-alert("Acciojob");
+function AccioJob(){
+	alert("AccioJob");
+}
+
+functionName();
+AccioJob();
